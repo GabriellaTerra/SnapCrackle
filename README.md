@@ -16,6 +16,7 @@ git clone "(SSH KEY)"
 - The app runs at :
  [http://localhost:3000](http://localhost:3000)
 - The page will reload if you make edits.
+- Open inspect Element console to see the results.
 
 ## Function conditions:
 #### Your items must always be separated by a comma and space.
