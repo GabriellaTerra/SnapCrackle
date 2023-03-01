@@ -20,15 +20,14 @@ git clone "(SSH KEY)"
 ## Function conditions:
 
 ---
-
-
-| If the number is odd     | instead of that number, concatenate "Snap" to the end of the string. |    
+|IF                           |   CONCATENATE
 |--------------------------|---------------------------------------------------------------|
+| If the number is odd     | instead of that number, concatenate "Snap" to the end of the string. |    
 | If the number is a multiple of 5     | instead of that number , concatenate "Crackle" to the end of the string. |               
 | If the number is odd and a multiple of 5   | instead of that number , concatenate "SnapCrackle" to the end of the string.                    |
 |If the number is neither odd nor a multiple of 5  | concatenate the number itself to the end of the string. |
 |Your items must always be separated by a comma and space.     |                |
- | This function should return the obtained string | |
+ | This function should return the obtained string | 
 
  ---
 
