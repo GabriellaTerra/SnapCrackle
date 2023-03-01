@@ -19,6 +19,7 @@ git clone "(SSH KEY)"
 
 ## Function conditions:
 
+---
 
 |---------------|----------------------------------------------------------------------------|
 | If the number is odd     | instead of that number, concatenate "Snap" to the end of the string. |      
@@ -27,6 +28,8 @@ git clone "(SSH KEY)"
 |If the number is neither odd nor a multiple of 5  | concatenate the number itself to the end of the string. |
 |Your items must always be separated by a comma and space.     |                |
  | This function should return the obtained string |
+ 
+ ---
 
 
 
